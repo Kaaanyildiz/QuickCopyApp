@@ -62,14 +62,13 @@ flutter run
       <td align="center"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/fontawesome.svg" width="40" height="40"/><br>Font Awesome</td>
     </tr>
     <tr>
-      <td align="center">Intl</td>
-      <td align="center">Shared Preferences</td>
-      <td align="center">Flex Color Scheme</td>
-      <td align="center">Animations</td>
+      <td align="center"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/dart.svg" width="40" height="40"/><br>Intl</td>
+      <td align="center"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/flutter.svg" width="40" height="40"/><br>Shared Preferences</td>
+      <td align="center"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/material-design.svg" width="40" height="40"/><br>Flex Color Scheme</td>
+      <td align="center"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/flutter.svg" width="40" height="40"/><br>Animations</td>
     </tr>
   </table>
 </div>
-
 
 ## 🤝 Katkıda Bulunma
 
