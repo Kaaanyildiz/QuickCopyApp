@@ -53,14 +53,23 @@ flutter run
       <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40" height="40"/><br>Flutter</td>
       <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="40" height="40"/><br>Dart</td>
       <td align="center"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/sqlite.svg" width="40" height="40"/><br>SQLite</td>
+      <td align="center"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googlefonts.svg" width="40" height="40"/><br>Google Fonts</td>
     </tr>
     <tr>
-      <td align="center">Provider</td>
-      <td align="center">Google Fonts</td>
-      <td align="center">Animasyonlar</td>
+      <td align="center"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/flutter.svg" width="40" height="40"/><br>Provider</td>
+      <td align="center"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/flutter.svg" width="40" height="40"/><br>Flutter Slidable</td>
+      <td align="center"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/flutter.svg" width="40" height="40"/><br>Flutter Animate</td>
+      <td align="center"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/fontawesome.svg" width="40" height="40"/><br>Font Awesome</td>
+    </tr>
+    <tr>
+      <td align="center">Intl</td>
+      <td align="center">Shared Preferences</td>
+      <td align="center">Flex Color Scheme</td>
+      <td align="center">Animations</td>
     </tr>
   </table>
 </div>
+
 
 ## 🤝 Katkıda Bulunma
 
